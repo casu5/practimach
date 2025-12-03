@@ -1,10 +1,10 @@
 <?php
     
 
-$host     = "localhost";
-$usuario  = "root";        
-$password = "";            
-$bd       = "practimach_db";
+$host     = "apstivigil.edu.pe";
+$usuario  = "iespvigil_unoche_e8";        
+$password = "Ze7@pLt#5NvM";            
+$bd       = "iespvigil_unoche_e8";
 
 $mysqli = new mysqli($host, $usuario, $password, $bd);
 
